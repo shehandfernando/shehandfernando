@@ -1,145 +1,79 @@
-👋 Hi, I'm Shehan Fernando
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Scientific+Computing+Enthusiast;AI+%7C+Machine+Learning+%7C+IoT;Future+CFD+Researcher&center=true&width=500&height=45"> </p>
+# 🚀 Hello World, I'm Shehan Fernando 
 
-🎓 BSc Computer Science Undergraduate – University of Westminster (IIT)
-💡 Interested in Scientific Computing, Artificial Intelligence, and Computational Fluid Dynamics (CFD)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BSc+Computer+Science+Undergraduate;Scientific+Computing+%26+CFD+Enthusiast;AI+%7C+Machine+Learning+%7C+IoT;Future+CFD+Researcher&center=true&width=600&height=45&color=39FF14">
+</p>
 
-I am passionate about applying computer science to real-world physical problems, particularly through simulation, data analysis, and computational modelling. My current focus is on developing strong foundations in Python, machine learning, numerical methods, and scientific computing tools.
+---
 
-🚀 I enjoy building projects involving AI, IoT systems, computer vision, and data-driven applications while preparing for future postgraduate research in Computational Fluid Dynamics and scientific computing.
+### 🎓 About Me
+I am a **Computer Science undergraduate** at the **University of Westminster (IIT)** with a deep fascination for the intersection of physics and code. My goal is to apply computational modeling and simulation to solve real-world physical problems.
 
-🛠 Tech Stack
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,cs,html,css" /> </p>
-⚙️ Frameworks & Platforms
-<p> <img src="https://skillicons.dev/icons?i=spring,react,dotnet" /> </p>
-🗄 Databases
-<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
-🔬 Scientific & Data Tools
-<p> <img src="https://skillicons.dev/icons?i=matlab,python" /> </p>
+- 🔭 **Currently Building:** [CrowdEye](https://github.com/shehandfernando), an AI-driven passenger monitoring system.
+- 🧪 **Research Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and Scientific Computing.
+- 🧠 **Focus:** Strengthening my foundations in Python, Machine Learning, and Edge-based processing.
+- ⚡ **Fun Fact:** I'm a big fan of Action Manhwa and Murim stories.
 
-Libraries & Tools
+---
 
-NumPy
+### 🛠️ Tech Stack
 
-Jupyter Notebook
+| Category | Icons |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css,matlab" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,react,dotnet" /> |
+| **Scientific & Data** | <img src="https://skillicons.dev/icons?i=numpy,mysql" /> **+ Jupyter, OpenCV** |
+| **Hardware & IoT** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> **+ Jetson Orin** |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,vscode,github" /> |
 
-OpenCV
+---
 
-🤖 Embedded Systems & IoT
+### 📂 Featured Projects
 
-Arduino
+#### 🚍 [CrowdEye](https://github.com/shehandfernando) | *Spring Boot, Computer Vision, IoT*
+> An intelligent monitoring system using camera input and motion tracking to manage live bus occupancy data. Includes a custom REST API and incident logging.
 
-Raspberry Pi
+#### 🌿 [Plant Disease Detection](https://github.com/shehandfernando) | *MATLAB, ML, Image Processing*
+> A GUI-based application designed to classify plant diseases from leaf images, streamlining detection via automated ML analysis.
 
-Jetson Orin
+#### 🛠️ [Hydra.HEX Performance Utility](https://github.com/shehandfernando) | *C#, .NET, Windows*
+> A specialized system utility built to optimize gaming performance through advanced process and memory management.
 
-Sensor Integration
+#### 📋 [Python Task Manager](https://github.com/shehandfernando) | *Python, Tkinter, OOP*
+> A robust task management tool featuring both CLI and GUI interfaces with JSON-based data persistence.
 
-📂 Featured Projects
-🚍 CrowdEye – Bus Passenger Monitoring System
+---
 
-IoT and computer vision system designed to monitor bus passenger crowd levels using camera input.
+### 📊 GitHub Insights
 
-Key Features
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight" />
+</p>
 
-Motion tracking and edge-based processing
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shehandfernando&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-Live occupancy monitoring
+### 🐍 Contribution Activity
+<p align="center">
+<img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" />
+</p>
 
-Incident logging system
+---
 
-REST API backend using Spring Boot + MySQL
+### 🌐 Connect With Me
 
-Tech:
-Spring Boot MySQL Computer Vision IoT
+<p align="left">
+<a href="https://linkedin.com/in/shehandfernando">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:iamshehanfdo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=shehandfernando&label=Profile%20views&color=0077B5&style=for-the-badge" />
+</p>
 
-🌱 Plant Disease Detection System
-
-MATLAB GUI application designed to detect and classify plant diseases from leaf images.
-
-Features:
-
-Image preprocessing
-
-Machine learning classification
-
-Automated disease detection
-
-Tech:
-MATLAB Image Processing Machine Learning
-
-📝 Python Task Manager
-
-Task management application built with CLI and Tkinter GUI.
-
-Features:
-
-Task creation, deletion, filtering, and sorting
-
-JSON-based data storage
-
-Object-oriented architecture using Task and TaskManager classes
-
-Tech:
-Python Tkinter JSON OOP
-
-📄 Text File Analysis Tool
-
-Python program designed to analyze text files and compute statistics.
-
-Features:
-
-Word frequency analysis
-
-Trigram detection
-
-Exception handling for file operations
-
-Tech:
-Python File Handling
-
-🌍 SDG15: Life on Land Website
-
-Multi-page responsive website promoting environmental awareness.
-
-Features:
-
-Responsive design
-
-Accessibility support
-
-Standards-compliant HTML validation
-
-Tech:
-HTML CSS JavaScript
-
-⚡ Hydra.HEX Performance Utility
-
-Windows-based system utility designed to improve gaming runtime performance.
-
-Features:
-
-Process optimization
-
-Memory handling improvements
-
-Lightweight desktop interface
-
-Tech:
-C# .NET Windows Development
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight"> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehandfernando&theme=tokyo-night"> </p>
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shehandfernando&theme=tokyonight&no-frame=true&row=1&column=6"> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg"> </p>
-💡 Developer Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"> </p>
-🌐 Connect With Me
-<p> <a href="https://github.com/shehandfernando"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:iamshehanfdo@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"> </a> </p>
-👀 Profile Views
-<p> <img src="https://komarev.com/ghpvc/?username=shehandfernando&label=Profile%20views&color=blue&style=flat" /> </p>>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
