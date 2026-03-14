@@ -53,9 +53,8 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 </p>
 
 ### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg"> </p>
 
 ---
 
