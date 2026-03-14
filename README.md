@@ -12,7 +12,7 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 - 🔭 **Currently Building:** [CrowdEye](https://github.com/shehandfernando), an AI-driven passenger monitoring system.
 - 🧪 **Research Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and Scientific Computing.
 - 🧠 **Focus:** Strengthening my foundations in Python, Machine Learning, and Edge-based processing.
-- ⚡ **Fun Fact:** I'm a big fan of Action Manhwa and Murim stories.
+- ⚡ **Fun Fact:** I'm a massive fan of Anime and Manhwas, and I spend my downtime diving into Novels.
 
 ---
 
