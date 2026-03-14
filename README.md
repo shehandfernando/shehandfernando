@@ -12,7 +12,7 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 - 🔭 **Current Projects:** Developing **CrowdEye** (AI-driven monitoring) and optimizing **Hydra.HEX** (system performance).
 - 🧠 **Ongoing Training:** Deep-diving into **Agentic AI & MLOps** through the Codezela Career Accelerator.
 - 🧪 **Research Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and Embedded Systems.
-- ⚡ **Fun Fact:** I'm a massive fan of Anime and Manhwas; I spend my downtime diving into Novels.
+- ⚡ **Fun Fact:** I'm a massive fan of **Anime and Manhwa** stories; I spend my downtime diving into **Novels**.
 
 ---
 
@@ -44,7 +44,7 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 ### 📊 GitHub Insights
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
@@ -54,7 +54,7 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 
 ### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
