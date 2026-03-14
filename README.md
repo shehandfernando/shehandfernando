@@ -1,18 +1,18 @@
 # 🚀 Hello World, I'm Shehan Fernando 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=BSc+Computer+Science+Undergraduate;Scientific+Computing+%26+CFD+Enthusiast;AI+%7C+Machine+Learning+%7C+IoT;Future+CFD+Researcher&center=true&width=600&height=45&color=39FF14">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BSc+Computer+Science+Undergraduate;Scientific+Computing+%26+CFD+Enthusiast;Building+Agentic+AI+%7C+MLOps;Python+%26+Java+Developer&center=true&width=600&height=45&color=39FF14">
 </p>
 
 ---
 
 ### 🎓 About Me
-I am a **Computer Science undergraduate** at the **University of Westminster (IIT)** with a deep fascination for the intersection of physics and code. My goal is to apply computational modeling and simulation to solve real-world physical problems.
+I am a **Computer Science undergraduate** at the **University of Westminster (IIT)**. My work focuses on the intersection of software engineering and **Scientific Computing**, with a goal of solving real-world physical problems through simulation and data analysis.
 
-- 🔭 **Currently Building:** [CrowdEye](https://github.com/shehandfernando), an AI-driven passenger monitoring system.
-- 🧪 **Research Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and Scientific Computing.
-- 🧠 **Focus:** Strengthening my foundations in Python, Machine Learning, and Edge-based processing.
-- ⚡ **Fun Fact:** I'm a massive fan of Anime and Manhwas, and I spend my downtime diving into Novels.
+- 🔭 **Current Projects:** Developing **CrowdEye** (AI-driven monitoring) and optimizing **Hydra.HEX** (system performance).
+- 🧠 **Ongoing Training:** Deep-diving into **Agentic AI & MLOps** through the Codezela Career Accelerator.
+- 🧪 **Research Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and Embedded Systems.
+- ⚡ **Fun Fact:** I'm a massive fan of Anime and Manhwas; I spend my downtime diving into Novels.
 
 ---
 
@@ -39,16 +39,13 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 #### 🛠️ [Hydra.HEX Performance Utility](https://github.com/shehandfernando) | *C#, .NET, Windows*
 > A specialized system utility built to optimize gaming performance through advanced process and memory management.
 
-#### 📋 [Python Task Manager](https://github.com/shehandfernando) | *Python, Tkinter, OOP*
-> A robust task management tool featuring both CLI and GUI interfaces with JSON-based data persistence.
-
 ---
 
 ### 📊 GitHub Insights
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
@@ -57,12 +54,12 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 
 ### 🐍 Contribution Activity
 <p align="center">
-<img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/shehandfernando">
