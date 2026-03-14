@@ -43,7 +43,7 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 
 ### 📊 GitHub Insights
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shehandfernando&theme=tokyonight&no-frame=true&row=1&column=6"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight"> </p>
 
 ### 🐍 Contribution Activity
 
