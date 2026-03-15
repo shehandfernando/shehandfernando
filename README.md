@@ -10,7 +10,7 @@
 I am a **Computer Science undergraduate** at the **University of Westminster (IIT)**. My work focuses on the intersection of software engineering and **Scientific Computing**, with a goal of solving real-world physical problems through simulation and data analysis.
 
 - 🔭 **Current Projects:** Developing **CrowdEye** (AI-driven monitoring).
-- 🧠 **Ongoing Training:** Deep-diving into **Agentic AI & MLOps** through the Codezela Career Accelerator.
+- 🧠 **Ongoing Training:** Deep-diving into **Agentic AI & MLOps**.
 - 🧪 **Research Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and Embedded Systems.
 - ⚡ **Fun Fact:** I'm a massive fan of **Anime and Manhwa** stories; I spend my downtime diving into **Novels**.
 
