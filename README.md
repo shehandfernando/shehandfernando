@@ -34,12 +34,12 @@
 ## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=📂%20STRATEGIC_DEPLOYMENTS&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 
 <details open>
-<summary><b>🚍 01. <a href="https://github.com/shehandfernando/crowdeye-iot-console">CrowdEye [STABLE_BUILD]</a></b></summary>
+<summary><b>🚍 01. CrowdEye [STABLE_BUILD]</b></summary>
 <br>
 <blockquote>
 Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin</b>. Real-time occupancy tracking, Spring Boot orchestration, and fleet-wide telemetry.
 <br><br>
-<a href="https://github.com/shehandfernando/crowdeye-iot-console"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
+<a href="https://crowdeye.lk/"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
 </blockquote>
 </details>
 
@@ -49,27 +49,27 @@ Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin<
 <blockquote>
 Automated agricultural classification system. Utilizing image processing and ML to detect leaf pathologies, empowering precision farming through early-stage detection.
 <br><br>
+<a href="https://github.com/shehandfernando/Plant-Disease-Detection-GUI"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
+</blockquote>
+</details>
+
+<details>
+<summary><b>📦 03. ShelfSync [OPERATIONAL]</b></summary>
+<br>
+<blockquote>
+Real-time inventory synchronization engine. Leveraging automation to eliminate supply chain latency and optimize restocking cycles.
+<br><br>
 <a href="https://github.com/shehandfernando/ShelfSync"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
 </blockquote>
 </details>
 
 <details>
-<summary><b>📦 03. <a href="https://github.com/shehandfernando">ShelfSync [OPERATIONAL]</a></b></summary>
-<br>
-<blockquote>
-Real-time inventory synchronization engine. Leveraging automation to eliminate supply chain latency and optimize restocking cycles.
-<br><br>
-<a href="https://github.com/shehandfernando"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
-</blockquote>
-</details>
-
-<details>
-<summary><b>⚖️ 04. <a href="https://github.com/shehandfernando">TaskFlow [OPTIMIZING]</a></b></summary>
+<summary><b>⚖️ 04. TaskFlow [OPTIMIZING]</b></summary>
 <br>
 <blockquote>
 High-velocity workflow management. An AI-integrated scheduling engine designed to reduce coordination friction for technical squads.
 <br><br>
-<a href="https://github.com/shehandfernando"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
+<a href="https://github.com/shehandfernando/TaskFlow"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
 </blockquote>
 </details>
 
