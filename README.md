@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=40&desc=NEURAL%20ARCHITECT%20%7C%20AI%20ML%20ENGINEER&descAlignY=60&descSize=20" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=50" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=NEURAL+ARCHITECT;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
