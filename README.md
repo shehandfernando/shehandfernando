@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=50" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=50" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=NEURAL+ARCHITECT;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
@@ -6,19 +6,19 @@
 
 ---
 
-## ⚡ CORE_LOG_INIT...
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=⚡%20CORE_LOG_INIT...&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
 > **Designation:** [**Neural Architect**]  
 > **Location:** Sri Lanka  
 > **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems and automate cognitive workflows.
 
-- 🧠 **Intelligence:** Architecting Agentic Workflows & MLOps Infrastructure.
-- 🔭 **Project Alpha:** Scaling **CrowdEye** (AI+IoT Transit Ecosystem).
-- ✍️ **Creative Layer:** Technical Writer & Storyteller — translating complex code into human narratives.
-- 🎌 **Downtime:** Anime enthusiast & exploring the 2000s Sri Lankan Pop/R&B era.
+* 🧠 **Intelligence:** Architecting Agentic Workflows & MLOps Infrastructure.
+* 🔭 **Project Alpha:** Scaling **CrowdEye** (AI+IoT Transit Ecosystem).
+* ✍️ **Creative Layer:** Technical Writer & Storyteller — translating complex code into human narratives.
+* 🎌 **Downtime:** Anime enthusiast & exploring the 2000s Sri Lankan Pop/R&B era.
 
 ---
 
-## 🛰️ TECHNOLOGICAL_PORTFOLIO
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=🛰️%20TECHNOLOGICAL_PORTFOLIO&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,js,matlab,spring,react,dotnet,mysql,docker,git,github,vscode&perline=13" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📂 CLASSIFIED_PROJECTS
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=📂%20CLASSIFIED_PROJECTS&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
 
 <details open>
 <summary><b>🚍 01. CrowdEye [SYSTEM_ACTIVE]</b></summary>
@@ -68,7 +68,7 @@ High-velocity workflow management. An AI-integrated scheduling engine designed t
 
 ---
 
-## 📉 SYSTEM_TELEMETRY
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=📉%20SYSTEM_TELEMETRY&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&border_radius=10&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" width="48%">
@@ -82,7 +82,7 @@ High-velocity workflow management. An AI-integrated scheduling engine designed t
 
 ---
 
-## 🌐 UPLINK_CHANNELS_ESTABLISHED
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=🌐%20UPLINK_CHANNELS_ESTABLISHED&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shehan-dilruksha-fernando">
