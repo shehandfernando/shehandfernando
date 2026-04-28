@@ -1,15 +1,14 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=1B263B&height=180&section=header&text=SHEHAN%20FERNANDO&fontSize=70&fontColor=E0E1DD&animation=fadeIn&fontAlignY=50" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=778DA9&center=true&vCenter=true&width=500&lines=NEURAL+ARCHITECT;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=778DA9&center=true&vCenter=true&width=600&lines=NEURAL+ARCHITECT;AI+ML+ENGINEER+INTERN+@+CODEZELA;BSc+CS+UNDERGRAD+@+UoW;TECH+STORYTELLER+%26+WRITER">
 </p>
 
 ---
 
 ## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=📡%20CORE_SYSTEM_SYNOPSIS&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 > **Designation:** [**Neural Architect**]  
-> **Location:** Sri Lanka  
-> **Mission:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems and automate cognitive workflows.
+> **Affiliation:** AI/ML Engineer Intern @ **Codezela** > **Academic:** Computer Science Undergraduate @ **University of Westminster** > **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems.
 
 * 🧠 **Intelligence:** Architecting Agentic Workflows & MLOps Infrastructure.
 * 🔭 **Project Alpha:** Scaling **CrowdEye** (AI+IoT Transit Ecosystem).
