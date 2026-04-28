@@ -49,7 +49,7 @@ Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin<
 <blockquote>
 Automated agricultural classification system. Utilizing image processing and ML to detect leaf pathologies, empowering precision farming through early-stage detection.
 <br><br>
-<a href="https://github.com/shehandfernando/ShelSync"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
+<a href="https://github.com/shehandfernando/ShelfSync"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
 </blockquote>
 </details>
 
