@@ -1,15 +1,15 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=50" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=1B263B&height=180&section=header&text=SHEHAN%20FERNANDO&fontSize=70&fontColor=E0E1DD&animation=fadeIn&fontAlignY=50" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=NEURAL+ARCHITECT;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=778DA9&center=true&vCenter=true&width=500&lines=NEURAL+ARCHITECT;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
 </p>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=⚡%20CORE_LOG_INIT...&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=📡%20CORE_SYSTEM_SYNOPSIS&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 > **Designation:** [**Neural Architect**]  
 > **Location:** Sri Lanka  
-> **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems and automate cognitive workflows.
+> **Mission:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems and automate cognitive workflows.
 
 * 🧠 **Intelligence:** Architecting Agentic Workflows & MLOps Infrastructure.
 * 🔭 **Project Alpha:** Scaling **CrowdEye** (AI+IoT Transit Ecosystem).
@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=🛰️%20TECHNOLOGICAL_PORTFOLIO&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=🛠️%20TECHNOLOGICAL_FOUNDRY&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,js,matlab,spring,react,dotnet,mysql,docker,git,github,vscode&perline=13" />
@@ -32,10 +32,10 @@
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=📂%20CLASSIFIED_PROJECTS&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=📂%20STRATEGIC_DEPLOYMENTS&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 
 <details open>
-<summary><b>🚍 01. CrowdEye [SYSTEM_ACTIVE]</b></summary>
+<summary><b>🚍 01. CrowdEye [STABLE_BUILD]</b></summary>
 <br>
 <blockquote>
 Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin</b>. Real-time occupancy tracking, Spring Boot orchestration, and fleet-wide telemetry.
@@ -43,7 +43,7 @@ Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin<
 </details>
 
 <details>
-<summary><b>🌿 02. Plant Disease Detection [ANALYSIS_COMPLETE]</b></summary>
+<summary><b>🌿 02. Plant Disease Detection [RESEARCH_COMPLETE]</b></summary>
 <br>
 <blockquote>
 Automated agricultural classification system. Utilizing image processing and ML to detect leaf pathologies, empowering precision farming through early-stage detection.
@@ -51,7 +51,7 @@ Automated agricultural classification system. Utilizing image processing and ML 
 </details>
 
 <details>
-<summary><b>📦 03. ShelfSync [DATA_SYNC_COMPLETE]</b></summary>
+<summary><b>📦 03. ShelfSync [OPERATIONAL]</b></summary>
 <br>
 <blockquote>
 Real-time inventory synchronization engine. Leveraging automation to eliminate supply chain latency and optimize restocking cycles.
@@ -59,7 +59,7 @@ Real-time inventory synchronization engine. Leveraging automation to eliminate s
 </details>
 
 <details>
-<summary><b>⚖️ 04. TaskFlow [OPTIMIZING_VELOCITY]</b></summary>
+<summary><b>⚖️ 04. TaskFlow [OPTIMIZING]</b></summary>
 <br>
 <blockquote>
 High-velocity workflow management. An AI-integrated scheduling engine designed to reduce coordination friction for technical squads.
@@ -68,44 +68,44 @@ High-velocity workflow management. An AI-integrated scheduling engine designed t
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=📉%20SYSTEM_TELEMETRY&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=📊%20SYSTEM_TELEMETRY&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&border_radius=10&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight&border_radius=10&bg_color=00000000&title_color=00FF9C&text_color=ffffff" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=calm&border_radius=10&bg_color=1B263B&title_color=E0E1DD&icon_color=778DA9&text_color=E0E1DD" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=calm&border_radius=10&bg_color=1B263B&title_color=E0E1DD&text_color=E0E1DD" width="42%">
 </p>
 
 ### 🐍 CONTRIBUTION_FLOW
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" alt="Neural Network Flow">
+  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" alt="Activity Flow">
 </p>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=🌐%20UPLINK_CHANNELS_ESTABLISHED&fontSize=20&fontColor=00FF9C&fontAlign=left&fontAlignX=10" />
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=🌐%20SECURE_UPLINK&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shehan-dilruksha-fernando">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=111111" />
+  <img src="https://img.shields.io/badge/LinkedIn-1B263B?style=for-the-badge&logo=linkedin&logoColor=E0E1DD" />
 </a>
 <a href="https://x.com/_shehanfernando">
-  <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF9C&labelColor=111111" />
+  <img src="https://img.shields.io/badge/X_Twitter-1B263B?style=for-the-badge&logo=x&logoColor=E0E1DD" />
 </a>
 <a href="https://www.instagram.com/_shehanfernando">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF9C&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Instagram-1B263B?style=for-the-badge&logo=instagram&logoColor=E0E1DD" />
 </a>
 <a href="https://www.facebook.com/share/1EaQyweYMt/">
-  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF9C&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Facebook-1B263B?style=for-the-badge&logo=facebook&logoColor=E0E1DD" />
 </a>
 <a href="mailto:iamshehanfdo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Email-1B263B?style=for-the-badge&logo=gmail&logoColor=E0E1DD" />
 </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000&quote_color=00FF9C&text_color=ffffff">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=calm&bg_color=1B263B&quote_color=E0E1DD&text_color=E0E1DD">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00FF9C?style=for-the-badge&logo=opsgenie&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-778DA9?style=for-the-badge&logo=opsgenie&logoColor=white" />
 </p>
