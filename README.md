@@ -1,53 +1,65 @@
-# 🚀 Hello World, I'm Shehan Fernando 
+# 🚀 Shehan Fernando | AI Engineer & Tech Entrepreneur
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=BSc+Computer+Science+Undergraduate;Scientific+Computing+%26+CFD+Enthusiast;Building+Agentic+AI+%7C+MLOps;Python+%26+Java+Developer&center=true&width=600&height=45&color=39FF14">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%26+Lead+Engineer;Building+Agentic+AI+%7C+MLOps;Computer+Science+@+Westminster+(IIT);Scientific+Computing+%26+CFD+Enthusiast&center=true&width=600&height=45&color=39FF14">
 </p>
 
 ---
 
-### 🎓 About Me
-I am a **Computer Science undergraduate** at the **University of Westminster (IIT)**. My work focuses on the intersection of software engineering and **Scientific Computing**, with a goal of solving real-world physical problems through simulation and data analysis.
+### 🏛️ Executive Summary
+I am a **Computer Science undergraduate** and **Tech Entrepreneur** based in Sri Lanka. I bridge the gap between complex software engineering and physical-world applications through **Scientific Computing**, **Computer Vision**, and **Agentic AI**. Currently, I lead a technical agency focused on automating complex workflows and developing IoT-driven monitoring solutions.
 
-- 🔭 **Current Projects:** Developing **CrowdEye** (AI-driven monitoring).
-- 🧠 **Ongoing Training:** Deep-diving into **Agentic AI & MLOps**.
-- 🧪 **Research Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and Embedded Systems.
-- ⚡ **Fun Fact:** I'm a massive fan of **Anime and Manhwa** stories; I spend my downtime diving into **Novels**.
+* 🏢 **Entrepreneurship:** Founder of a startup agency specializing in AI-driven automation and digital business models.
+* 🔭 **Current Focus:** Scaling **CrowdEye**—an end-to-end IoT system for public transport monitoring.
+* 🧠 **Deep Learning:** Currently architecting Agentic AI workflows and refining MLOps pipelines.
+* 🧪 **Interests:** Computational Fluid Dynamics (CFD), Numerical Methods, and High-Performance Computing.
+* 🏯 **Lifestyle:** When not at the terminal, you’ll find me deep in **Murim/Wuxia** manhwa or exploring 2000s Sri Lankan R&B.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Specialized Stack
 
-| Category | Icons |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css,matlab" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,react,dotnet" /> |
-| **Scientific & Data** | <img src="https://skillicons.dev/icons?i=numpy,mysql" /> **+ Jupyter, OpenCV** |
-| **Hardware & IoT** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> **+ Jetson Orin** |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,vscode,github" /> |
+| **Core Engineering** | <img src="https://skillicons.dev/icons?i=python,java,cs,js,matlab" /> |
+| **AI / ML / Data** | <img src="https://skillicons.dev/icons?i=numpy,mysql" /> **+ OpenCV, Jupyter, PyTorch** |
+| **Backend & Scaling** | <img src="https://skillicons.dev/icons?i=spring,dotnet,react" /> |
+| **Edge & Robotics** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> **+ NVIDIA Jetson Orin** |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /> |
 
 ---
 
-### 📂 Featured Projects
+### 📂 Strategic Projects
 
 #### 🚍 [CrowdEye](https://github.com/shehandfernando) | *Spring Boot, Computer Vision, IoT*
-> An intelligent monitoring system using camera input and motion tracking to manage live bus occupancy data. Includes a custom REST API and incident logging.
+> **Flagship Project:** An intelligent crowd-control system for public transport. Features live passenger occupancy tracking using CV on the edge (**NVIDIA Jetson Orin**) and a centralized admin dashboard for real-time fleet management.
+
+#### 📦 [ShelfSync](https://github.com/shehandfernando) | *Inventory Management & Automation*
+> A streamlined inventory synchronization platform designed for modern warehouses. It focuses on real-time data accuracy and automated restocking alerts to minimize supply chain friction.
+
+#### ⚖️ [TaskFlow](https://github.com/shehandfernando) | *Workflow Automation & Management*
+> A robust project management and task automation tool tailored for technical teams. TaskFlow integrates AI-driven scheduling to optimize team velocity and reduce manual coordination overhead.
 
 #### 🌿 [Plant Disease Detection](https://github.com/shehandfernando) | *MATLAB, ML, Image Processing*
-> A GUI-based application designed to classify plant diseases from leaf images, streamlining detection via automated ML analysis.
-
-#### 🛠️ [Hydra.HEX Performance Utility](https://github.com/shehandfernando) | *C#, .NET, Windows*
-> A specialized system utility built to optimize gaming performance through advanced process and memory management.
+> An automated classification system using image processing algorithms to detect and categorize leaf diseases, aimed at optimizing agricultural yields through early-stage detection.
 
 ---
 
-### 📊 GitHub Insights
+### 📊 Performance & Contributions
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight"> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&count_private=true"> 
+</p> 
 
-### 🐍 Contribution Activity
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight"> 
+</p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg"> </p>
+### 🐍 Contribution Heatmap
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg"> 
+</p>
 
 ---
 
@@ -64,5 +76,5 @@ I am a **Computer Science undergraduate** at the **University of Westminster (II
 </p>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
