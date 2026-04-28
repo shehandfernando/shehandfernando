@@ -8,7 +8,7 @@
 
 ## <img src="https://capsule-render.vercel.app/api?type=rect&color=1B263B&height=40&text=📡%20CORE_SYSTEM_SYNOPSIS&fontSize=20&fontColor=E0E1DD&fontAlign=left&fontAlignX=10" />
 > **Designation:** [**Neural Architect**]  
-> **Affiliation:** AI/ML Engineer Intern @ **Codezela** > **Academic:** Computer Science Undergraduate @ **University of Westminster** > **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems.
+> **Affiliation:** AI/ML Engineer Intern @ **Codezela** **Technologies** > **Academic:** Computer Science Undergraduate @ **University of Westminster** > **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems.
 
 * 🧠 **Intelligence:** Architecting Agentic Workflows & MLOps Infrastructure.
 * 🔭 **Project Alpha:** Scaling **CrowdEye** (AI+IoT Transit Ecosystem).
