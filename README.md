@@ -44,12 +44,12 @@ Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin<
 </details>
 
 <details>
-<summary><b>🌿 02. <a href="https://github.com/shehandfernando">Plant Disease Detection [RESEARCH_COMPLETE]</a></b></summary>
+<summary><b>🌿 02. Plant Disease Detection [RESEARCH_COMPLETE]</b></summary>
 <br>
 <blockquote>
 Automated agricultural classification system. Utilizing image processing and ML to detect leaf pathologies, empowering precision farming through early-stage detection.
 <br><br>
-<a href="https://github.com/shehandfernando"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
+<a href="https://github.com/shehandfernando/ShelSync"><img src="https://img.shields.io/badge/Source_Code-1B263B?style=flat-square&logo=github&logoColor=E0E1DD" /></a>
 </blockquote>
 </details>
 
