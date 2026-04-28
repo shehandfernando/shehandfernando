@@ -1,69 +1,70 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXByeHoxbmZ4NDBqZzZ4eXByeHoxbmZ4NDBqZzZ4eXByeHoxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw36yE19at4ai39u8o/giphy.gif" width="35"> Shehan Fernando
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%26+Lead+Engineer;AI+Engineer+%7C+Agentic+Workflows;Computer+Science+@+Westminster+(IIT);MLOps+%26+Scientific+Computing&center=true&width=600&height=45&color=39FF14&font=Orbitron">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT;AI+ENGINEER+%7C+ENTREPRENEUR;BUILDING+AGENTIC+WORKFLOWS;CFD+%26+SCIENTIFIC+COMPUTING">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shehandfernando"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iamshehanfdo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shehandfernando&label=Profile%20views&color=0077B5&style=for-the-badge" />
+  <a href="https://linkedin.com/in/shehandfernando"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:iamshehanfdo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚡ About Me
-I am a **Computer Science undergraduate** and **Tech Entrepreneur** from Sri Lanka, specialized in bridging the gap between high-level AI and physical-world systems. My expertise lies in **Scientific Computing**, **Computer Vision**, and **Agentic AI**. I lead a technical agency that engineers automation and IoT monitoring solutions for complex industrial challenges.
+## 🛰️ System Overview
+> **Position:** Computer Science Undergraduate @ Westminster (IIT)  
+> **Specialization:** Bridging high-level Intelligence with Physical-World Systems.
+> **Mission:** Engineering autonomous solutions through **Computer Vision**, **Agentic AI**, and **Scientific Computing**.
 
-- 🔭 **Flagship:** Scaling **CrowdEye** — an AI + IoT ecosystem for public transit.
-- 🧠 **R&D:** Architecting Agentic AI workflows and fine-tuning MLOps pipelines.
-- 🧪 **Interests:** Computational Fluid Dynamics (CFD) and High-Performance Computing.
-- 🏯 **Downtime:** Massive fan of **Anime** and 2000s Sri Lankan R&B.
+- 🔭 **Current Directive:** Scaling **CrowdEye** (AI-driven monitoring ecosystem).
+- 🧠 **Active Research:** Architecting Agentic Workflows & MLOps Pipelines.
+- 🏢 **Foundership:** Leading a technical agency focused on digital business automation.
+- 🏯 **Cognitive Recharge:** Murim/Wuxia Webtoons & 2000s Sri Lankan R&B.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technological Arsenal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,matlab,spring,react,dotnet,mysql,docker,git,github,vscode&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,matlab,spring,react,dotnet,mysql,docker,git,github,vscode&perline=13" />
 </p>
 
-| Domain | Specialist Stack |
-| :--- | :--- |
-| **AI / ML / Data** | NumPy, OpenCV, PyTorch, Jupyter, Scikit-Learn |
-| **Edge & Robotics** | **NVIDIA Jetson Orin**, Raspberry Pi, Arduino |
-| **Architectures** | Microservices, REST APIs, Agentic Frameworks |
+<div align="center">
+
+| Core Intelligence | Edge & Infrastructure | Frameworks |
+| :--- | :--- | :--- |
+| PyTorch • OpenCV | **NVIDIA Jetson Orin** | Spring Boot |
+| NumPy • Scikit-Learn | Raspberry Pi • Arduino | React • .NET |
+| Numerical Methods | Docker • Git | REST APIs |
+
+</div>
 
 ---
 
-## 📂 Strategic Portfolio
+## 📂 Strategic Deployment (Projects)
 
-### 🚍 [CrowdEye](https://github.com/shehandfernando)
-> **AI-Driven Transit Monitoring**
-> An end-to-end IoT system utilizing Computer Vision on the **NVIDIA Jetson Orin** to monitor real-time bus occupancy. Features a Spring Boot backend and an advanced fleet management dashboard.
+### 🚍 [CrowdEye](https://github.com/shehandfernando) 
+**`STATUS: ACTIVE`** | **`STACK: SPRING BOOT, CV, IOT`**
+> An intelligent transit ecosystem utilizing Computer Vision on the **NVIDIA Jetson Orin** to manage live bus occupancy and fleet logistics.
 
 ### 📦 [ShelfSync](https://github.com/shehandfernando)
-> **Automated Inventory Intelligence**
-> A high-performance synchronization platform designed to eliminate supply chain friction through real-time data tracking and automated restocking triggers.
+**`STATUS: DEPLOYED`** | **`STACK: AUTOMATION`**
+> High-performance inventory intelligence designed to eliminate supply chain friction through real-time data tracking and automated restocking.
 
 ### ⚖️ [TaskFlow](https://github.com/shehandfernando)
-> **Workflow Optimization Engine**
-> A project management tool tailored for dev teams, integrating AI-driven scheduling to maximize team velocity and minimize coordination overhead.
-
-### 🌿 [Plant Disease Detection](https://github.com/shehandfernando)
-> **Agricultural Computer Vision**
-> A MATLAB-based ML application providing GUI-driven disease classification to empower precision agriculture through early detection.
+**`STATUS: OPTIMIZING`** | **`STACK: WORKFLOW ENGINE`**
+> Workflow optimization engine tailored for dev teams, integrating AI-driven scheduling to maximize velocity and minimize overhead.
 
 ---
 
-## 📊 Analytics & Impact
+## 📊 Neural Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" width="41%">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00FF9C" width="42%">
 </p>
 
-### 🐍 Contribution Dynamics
+### 🐍 Contribution Stream
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" alt="Snake animation">
@@ -72,9 +73,9 @@ I am a **Computer Science undergraduate** and **Tech Entrepreneur** from Sri Lan
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&quote_color=00FF9C">
 </p>
 
 <p align="center">
-  <b>Built with 💻 and ☕ by Shehan Fernando</b>
+  <b>SYSTEM STATUS: <img src="https://img.shields.io/badge/OPERATIONAL-00FF9C?style=flat-square&logo=opsgenie&logoColor=black" /></b>
 </p>
