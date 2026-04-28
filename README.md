@@ -1,81 +1,103 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=40&desc=NEURAL%20ARCHITECT%20%7C%20AI%20ML%20ENGINEER%20INTERN&descAlignY=60&descSize=20" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT;AI+ENGINEER+%7C+ENTREPRENEUR;BUILDING+AGENTIC+WORKFLOWS;CFD+%26+SCIENTIFIC+COMPUTING">
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/shehandfernando"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iamshehanfdo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=AI+%2F+ML+ENGINEER+INTERN;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
 </p>
 
 ---
 
-## 🛰️ System Overview
-> **Position:** Computer Science Undergraduate @ Westminster (IIT)  
-> **Specialization:** Bridging high-level Intelligence with Physical-World Systems.
-> **Mission:** Engineering autonomous solutions through **Computer Vision**, **Agentic AI**, and **Scientific Computing**.
+## ⚡ CORE_LOG_INIT...
+> **Current Status:** [**AI/ML Engineer Intern**]  
+> **Location:** Sri Lanka  
+> **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems.
 
-- 🔭 **Current Directive:** Scaling **CrowdEye** (AI-driven monitoring ecosystem).
-- 🧠 **Active Research:** Architecting Agentic Workflows & MLOps Pipelines.
-- 🏢 **Foundership:** Leading a technical agency focused on digital business automation.
-- 🏯 **Cognitive Recharge:** Murim/Wuxia Webtoons & 2000s Sri Lankan R&B.
+- 🧠 **Intelligence:** Building Agentic Workflows & MLOps Infrastructure.
+- 🔭 **Project Alpha:** Scaling **CrowdEye** (AI+IoT Transit Ecosystem).
+- ✍️ **Creative Layer:** Technical Writer & Storyteller — translating complex code into human narratives.
+- 🎌 **Downtime:** Anime enthusiast & exploring the 2000s Sri Lankan Pop/R&B era.
 
 ---
 
-## 🛠️ Technological Arsenal
+## 🛰️ TECHNOLOGICAL_PORTFOLIO
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,js,matlab,spring,react,dotnet,mysql,docker,git,github,vscode&perline=13" />
 </p>
 
-<div align="center">
+### 💠 NEURAL_ENGINEERING
+`PYTORCH` • `OPENCV` • `NUMPY` • `SCIKIT-LEARN` • `MLOPS`
 
-| Core Intelligence | Edge & Infrastructure | Frameworks |
-| :--- | :--- | :--- |
-| PyTorch • OpenCV | **NVIDIA Jetson Orin** | Spring Boot |
-| NumPy • Scikit-Learn | Raspberry Pi • Arduino | React • .NET |
-| Numerical Methods | Docker • Git | REST APIs |
-
-</div>
+### 💠 EDGE_HARDWARE
+`NVIDIA JETSON ORIN` • `RASPBERRY PI` • `ARDUINO`
 
 ---
 
-## 📂 Strategic Deployment (Projects)
+## 📂 CLASSIFIED_PROJECTS
 
-### 🚍 [CrowdEye](https://github.com/shehandfernando) 
-**`STATUS: ACTIVE`** | **`STACK: SPRING BOOT, CV, IOT`**
-> An intelligent transit ecosystem utilizing Computer Vision on the **NVIDIA Jetson Orin** to manage live bus occupancy and fleet logistics.
+<details open>
+<summary><b>🚍 01. CrowdEye [SYSTEM_ACTIVE]</b></summary>
+<br>
+<blockquote>
+Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin</b>. Real-time occupancy tracking, Spring Boot orchestration, and fleet-wide telemetry.
+</blockquote>
+</details>
 
-### 📦 [ShelfSync](https://github.com/shehandfernando)
-**`STATUS: DEPLOYED`** | **`STACK: AUTOMATION`**
-> High-performance inventory intelligence designed to eliminate supply chain friction through real-time data tracking and automated restocking.
+<details>
+<summary><b>📦 02. ShelfSync [DATA_SYNC_COMPLETE]</b></summary>
+<br>
+<blockquote>
+Real-time inventory synchronization engine. Leveraging automation to eliminate supply chain latency and optimize restocking cycles.
+</blockquote>
+</details>
 
-### ⚖️ [TaskFlow](https://github.com/shehandfernando)
-**`STATUS: OPTIMIZING`** | **`STACK: WORKFLOW ENGINE`**
-> Workflow optimization engine tailored for dev teams, integrating AI-driven scheduling to maximize velocity and minimize overhead.
-
----
-
-## 📊 Neural Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00FF9C" width="42%">
-</p>
-
-### 🐍 Contribution Stream
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+<details>
+<summary><b>⚖️ 03. TaskFlow [OPTIMIZING_VELOCITY]</b></summary>
+<br>
+<blockquote>
+High-velocity workflow management. An AI-integrated scheduling engine designed to reduce coordination friction for technical squads.
+</blockquote>
+</details>
 
 ---
 
+## 📉 SYSTEM_TELEMETRY
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&quote_color=00FF9C">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehandfernando&show_icons=true&theme=tokyonight&border_radius=10&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandfernando&layout=compact&theme=tokyonight&border_radius=10&bg_color=00000000&title_color=00FF9C&text_color=ffffff" width="42%">
+</p>
+
+### 🐍 CONTRIBUTION_FLOW
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shehandfernando/shehandfernando/output/github-contribution-grid-snake.svg" alt="Neural Network Flow">
+</p>
+
+---
+
+## 🌐 UPLINK_CHANNELS_ESTABLISHED
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shehan-dilruksha-fernando">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=111111" />
+</a>
+<a href="https://x.com/_shehanfernando">
+  <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF9C&labelColor=111111" />
+</a>
+<a href="https://www.instagram.com/_shehanfernando">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF9C&labelColor=111111" />
+</a>
+<a href="https://www.facebook.com/share/1EaQyweYMt/">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF9C&labelColor=111111" />
+</a>
+<a href="mailto:iamshehanfdo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=111111" />
+</a>
 </p>
 
 <p align="center">
-  <b>SYSTEM STATUS: <img src="https://img.shields.io/badge/OPERATIONAL-00FF9C?style=flat-square&logo=opsgenie&logoColor=black" /></b>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000&quote_color=00FF9C&text_color=ffffff">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00FF9C?style=for-the-badge&logo=opsgenie&logoColor=black" />
 </p>
