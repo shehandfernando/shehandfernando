@@ -1,17 +1,17 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=40&desc=NEURAL%20ARCHITECT%20%7C%20AI%20ML%20ENGINEER%20INTERN&descAlignY=60&descSize=20" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=SHEHAN%20FERNANDO&fontSize=80&fontColor=00FF9C&animation=fadeIn&fontAlignY=40&desc=NEURAL%20ARCHITECT%20%7C%20AI%20ML%20ENGINEER&descAlignY=60&descSize=20" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=AI+%2F+ML+ENGINEER+INTERN;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=NEURAL+ARCHITECT;AGENTIC+SYSTEMS+DESIGNER;SCIENTIFIC+COMPUTING;TECH+STORYTELLER+%26+WRITER">
 </p>
 
 ---
 
 ## ⚡ CORE_LOG_INIT...
-> **Current Status:** [**AI/ML Engineer Intern**]  
+> **Designation:** [**Neural Architect**]  
 > **Location:** Sri Lanka  
-> **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems.
+> **Objective:** Harmonizing **Numerical Methods** with **Deep Learning** to solve high-dimensional physical problems and automate cognitive workflows.
 
-- 🧠 **Intelligence:** Building Agentic Workflows & MLOps Infrastructure.
+- 🧠 **Intelligence:** Architecting Agentic Workflows & MLOps Infrastructure.
 - 🔭 **Project Alpha:** Scaling **CrowdEye** (AI+IoT Transit Ecosystem).
 - ✍️ **Creative Layer:** Technical Writer & Storyteller — translating complex code into human narratives.
 - 🎌 **Downtime:** Anime enthusiast & exploring the 2000s Sri Lankan Pop/R&B era.
@@ -43,7 +43,15 @@ Intelligent transit monitoring via Computer Vision on the <b>NVIDIA Jetson Orin<
 </details>
 
 <details>
-<summary><b>📦 02. ShelfSync [DATA_SYNC_COMPLETE]</b></summary>
+<summary><b>🌿 02. Plant Disease Detection [ANALYSIS_COMPLETE]</b></summary>
+<br>
+<blockquote>
+Automated agricultural classification system. Utilizing image processing and ML to detect leaf pathologies, empowering precision farming through early-stage detection.
+</blockquote>
+</details>
+
+<details>
+<summary><b>📦 03. ShelfSync [DATA_SYNC_COMPLETE]</b></summary>
 <br>
 <blockquote>
 Real-time inventory synchronization engine. Leveraging automation to eliminate supply chain latency and optimize restocking cycles.
@@ -51,7 +59,7 @@ Real-time inventory synchronization engine. Leveraging automation to eliminate s
 </details>
 
 <details>
-<summary><b>⚖️ 03. TaskFlow [OPTIMIZING_VELOCITY]</b></summary>
+<summary><b>⚖️ 04. TaskFlow [OPTIMIZING_VELOCITY]</b></summary>
 <br>
 <blockquote>
 High-velocity workflow management. An AI-integrated scheduling engine designed to reduce coordination friction for technical squads.
